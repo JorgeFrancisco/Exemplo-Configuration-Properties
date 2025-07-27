@@ -10,8 +10,8 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>configprop</artifactId>
+	<version>0.0.2</version>
 	<name>configprop</name>
 	<description>Exemplo de Configuration Properties</description>
 
